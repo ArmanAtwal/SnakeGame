@@ -11,7 +11,7 @@ Score tracking and high score display
 
 # Installation
 Clone the repository:
-git clone 
+git clone https://github.com/ArmanAtwal/SnakeGame
 Navigate to the project directory:
 cd snake-game
 Run the game:
