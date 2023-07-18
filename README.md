@@ -1,4 +1,6 @@
 # Snake Game
+<img width="447" alt="Screenshot 2023-07-18 at 3 16 49 PM" src="https://github.com/ArmanAtwal/SnakeGame/assets/139921617/9b3f98b0-c16d-46e6-b51e-e021dbd3c523">
+
 
 # Description
 This is a simple snake game implemented in Python. The game allows the player to control a snake and navigate it around the screen, eating apples to grow longer. The objective is to avoid colliding with the snake's own body or the boundaries of the screen.
